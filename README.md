@@ -2,6 +2,4 @@
 Java (Maven) application for tracking time on the job
 
 Time tracker
-
-Good Night Students!!!
-hi all
+This is test pankaj
